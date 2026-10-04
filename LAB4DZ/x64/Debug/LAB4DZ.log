@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\vladi\source\repos\LAB4DZ\Source.c(10,12): warning C4876: неполный или недопустимый многобайтовый символ в строковом литерале. Используйте escape-последовательность для сохранения этих байтовых значений.
+C:\Users\vladi\source\repos\LAB4DZ\Source.c(13,12): warning C4876: неполный или недопустимый многобайтовый символ в строковом литерале. Используйте escape-последовательность для сохранения этих байтовых значений.
+  LAB4DZ.vcxproj -> C:\Users\vladi\source\repos\LAB4DZ\x64\Debug\LAB4DZ.exe
